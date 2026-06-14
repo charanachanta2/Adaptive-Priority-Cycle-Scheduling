@@ -1,5 +1,6 @@
 # Traffic Management System - Dynamic Cycle Scheduling
 #Adaptive Priority Cycle Scheduling (APCS)
+import APCS_algorithm
 
 directions = ["North", "South", "East", "West"]
 
